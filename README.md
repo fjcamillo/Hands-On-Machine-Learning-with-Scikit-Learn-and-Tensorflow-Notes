@@ -1,0 +1,1 @@
+In this repository, I will place my notes, jupyter notebooks and o[ther information that I'll learn while going through the book]
